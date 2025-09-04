@@ -14,7 +14,7 @@ try:
         # The exponential operator (**) is used to calculate the cube of the radius.
         volume = (4/3) * math.pi * (radius ** 3)
 
-        print(f"\nThe volume of a sphere with radius {radius} is {volume}.")
+        print(f"\nThe volume of a sphere with radius  is {volume}.")
 
 except ValueError:
     # If the user's input cannot be converted to a number,
